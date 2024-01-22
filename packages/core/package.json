@@ -1,6 +1,6 @@
 {
-  "name": "@daniela/agm-core",
-  "version": "16.0.0",
+  "name": "@agm/core",
+  "version": "3.0.0-beta.1",
   "description": "Angular components for Google Maps",
   "author": "Sebastian Holstein <info@sebastian-holstein.de>",
   "license": "MIT",
